@@ -1,0 +1,19 @@
+{
+  "name": "canvas-documentation",
+  "version": "0.0.1",
+  "license": "MIT",
+  "author": {
+    "name": "Danny Feliz",
+    "email": "danny@mctekk.com",
+    "url": "https://github.com/dannyfeliz"
+  },
+  "scripts": {
+    "dev": "./node_modules/vuepress/cli.js dev docs",
+    "serve": "npm run dev",
+    "build": "./node_modules/vuepress/cli.js build docs",
+    "production": "npm run build"
+  },
+  "devDependencies": {
+    "vuepress": "^1.0.1"
+  }
+}
