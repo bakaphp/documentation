@@ -1,8 +1,8 @@
 ---
 home: true
-heroImage: https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg
+heroImage: assets/img/logo.svg
 actionText: Get Started →
-actionLink: /example/
+actionLink: /rapid-crud/
 features:
 - title: Low code
   details: Minimal setup and simplify project structure to help you to focus on writing just the bussiness logic.
