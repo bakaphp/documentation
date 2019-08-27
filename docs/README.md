@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: assets/img/logo.svg
+heroImage: assets/img/baka.png
 actionText: Get Started →
 actionLink: /rapid-crud/
 features:

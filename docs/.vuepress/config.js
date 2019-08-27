@@ -2,7 +2,7 @@ module.exports = {
   title: "Baka Documentation",
   description: 'Just playing around',
   themeConfig: {
-    logo: 'assets/img/logo.svg',
+    logo: 'assets/img/baka.png',
     lastUpdated: 'Last Updated',
     nav: [
       { text: 'Home', link: '/' },
